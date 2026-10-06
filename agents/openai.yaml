@@ -1,0 +1,4 @@
+interface:
+  display_name: "技术概念快速拆解"
+  short_description: "从产品决策和工程取舍视角快速拆解新模型与技术概念等"
+  default_prompt: "Use $technical-concept-breakdown to analyze this new AI model or technical concept and give me an evidence-based go/no-go recommendation."
